@@ -1,0 +1,2 @@
+rebol []
+alert "ok !!"
