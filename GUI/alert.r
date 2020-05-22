@@ -1,2 +1,0 @@
-rebol []
-alert "ok !!"
